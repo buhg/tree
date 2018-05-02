@@ -1,0 +1,15 @@
+{
+  "name": "vibin-tree",
+  "version": "0.1.0",
+  "author": "vibin",
+  "summary": "example for tree",
+  "license": "Apache-2.0",
+  "source": "https://github.com/buhg/tree.git",
+  "project_page": "https://github.com/buhg/tree",
+  "issues_url": "https://github.com/buhg/tree/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
